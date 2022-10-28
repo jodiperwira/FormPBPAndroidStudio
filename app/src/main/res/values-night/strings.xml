@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="form_registrasi">Form Registrasi</string>
+    <string name="nama">Masukkan nama anda</string>
+    <string name="tempat_tanggal_lahir">Tempat, tanggal lahir</string>
+    <string name="submit">Submit</string>
+    <string name="hasil_pengisian">Hasil Pengisian</string>
+    <string name="ttl">TTL</string>
+    <string name="daftar_nama">Daftar Nama</string>
+    <string name="TTL">Tempat, tanggal lahir</string>
+</resources>
